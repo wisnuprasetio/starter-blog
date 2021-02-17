@@ -4,7 +4,7 @@ widget_id: wisnu-prasetyo.netlify.app
 headless: true
 weight: 10
 title: Welcome!
-subtitle: For [visitor](https://rrq.com/)
+subtitle: For [visitor](https://google.com/)
 design:
   background:
     color: "#090a0b"
