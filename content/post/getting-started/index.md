@@ -1,5 +1,5 @@
 ---
-title: Welcome to My Blog, Website yang dibuat untuk Belajar.
+title: Cerita Tentang Daerah Asal
 subtitle: Prambanan, Klaten
 date: 2020-12-13T00:00:00.000Z
 summary: ""
