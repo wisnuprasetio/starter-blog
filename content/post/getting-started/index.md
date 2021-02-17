@@ -25,6 +25,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: 94776.png
 ---
 
 ## Overview
