@@ -5,7 +5,7 @@ date: 2021-02-17T08:48:24.257Z
 draft: false
 featured: false
 image:
-  filename: 94776.png
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
