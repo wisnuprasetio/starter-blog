@@ -1,10 +1,10 @@
 ---
-widget: starter.blog.intro
+widget: wisnu-prasetyo.netlify.intro
 widget_id: wisnu-prasetyo.netlify.app
 headless: true
 weight: 10
 title: Welcome!
-subtitle: For [rrq](https://rrq.com/)
+subtitle: For [visitor](https://rrq.com/)
 design:
   background:
     color: "#090a0b"
